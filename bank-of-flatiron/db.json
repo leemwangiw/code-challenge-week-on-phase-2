@@ -1,0 +1,32 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "date": "2023-08-01",
+      "description": "Groceries",
+      "category": "Food",
+      "amount": 50.25
+    },
+    {
+      "id": "2",
+      "date": "2023-08-02",
+      "description": "Rent",
+      "category": "Housing",
+      "amount": 1200
+    },
+    {
+      "id": "3",
+      "date": "2023-08-03",
+      "description": "Electricity Bill",
+      "category": "Utilities",
+      "amount": 75
+    },
+    {
+      "id": "4da9",
+      "date": "2023-08-01",
+      "description": "meat",
+      "category": "food",
+      "amount": "50.25"
+    }
+  ]
+}
